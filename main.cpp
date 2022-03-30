@@ -3,7 +3,7 @@
 #include<vector>
 #include <algorithm>
 
-#define SIZE 100000
+#define SIZE 1000
 using namespace std;
 using namespace std::chrono;
 
